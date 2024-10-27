@@ -1,0 +1,9 @@
+{
+    "github_token": "your_github_token",
+    "notification_settings": {
+        "email": "xieleihan@gmail.com",
+        "slack_webhook_url": "https://hooks.slack.com/services/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"
+    },
+    "subscriptions_file": "subscriptions.json",
+    "update_interval": 86400
+}
